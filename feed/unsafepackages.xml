@@ -44,4 +44,42 @@
   
   <package id="Microsoft.IdentityModel.Tokens" before="5.1.2" infoUri="https://technet.microsoft.com/library/security/3214296" />
   
+  <package id="System.Text.Encodings.Web" afterOrAt="4.0.0" before="4.0.1" infoUri="https://github.com/aspnet/Announcements/issues/239" />
+  <package id="System.Text.Encodings.Web" afterOrAt="4.3.0" before="4.3.1" infoUri="https://github.com/aspnet/Announcements/issues/239" />
+  <package id="System.Net.Http" afterOrAt="4.1.1" before="4.1.2" infoUri="https://github.com/aspnet/Announcements/issues/239" />
+  <package id="System.Net.Http" afterOrAt="4.3.1" before="4.3.2" infoUri="https://github.com/aspnet/Announcements/issues/239" />
+  <package id="System.Net.Http.WinHttpHandler" afterOrAt="4.0.1" before="4.0.2" infoUri="https://github.com/aspnet/Announcements/issues/239" />
+  <package id="System.Net.Http.WinHttpHandler" afterOrAt="4.3.0" before="4.3.1" infoUri="https://github.com/aspnet/Announcements/issues/239" />
+  <package id="System.Net.Security" afterOrAt="4.0.0" before="4.0.1" infoUri="https://github.com/aspnet/Announcements/issues/239" />
+  <package id="System.Net.Security" afterOrAt="4.3.0" before="4.3.1" infoUri="https://github.com/aspnet/Announcements/issues/239" />
+  <package id="System.Net.WebSockets.Client" afterOrAt="4.0.0" before="4.0.1" infoUri="https://github.com/aspnet/Announcements/issues/239" />
+  <package id="System.Net.WebSockets.Client" afterOrAt="4.3.0" before="4.3.1" infoUri="https://github.com/aspnet/Announcements/issues/239" />
+  <package id="Microsoft.AspNetCore.Mvc" afterOrAt="1.0.0" before="1.0.4" infoUri="https://github.com/aspnet/Announcements/issues/239" />
+  <package id="Microsoft.AspNetCore.Mvc" afterOrAt="1.1.0" before="1.1.3" infoUri="https://github.com/aspnet/Announcements/issues/239" />
+  <package id="Microsoft.AspNetCore.Mvc.Core" afterOrAt="1.0.0" before="1.0.4" infoUri="https://github.com/aspnet/Announcements/issues/239" />
+  <package id="Microsoft.AspNetCore.Mvc.Core" afterOrAt="1.1.0" before="1.1.3" infoUri="https://github.com/aspnet/Announcements/issues/239" />
+  <package id="Microsoft.AspNetCore.Mvc.Abstractions" afterOrAt="1.0.0" before="1.0.4" infoUri="https://github.com/aspnet/Announcements/issues/239" />
+  <package id="Microsoft.AspNetCore.Mvc.Abstractions" afterOrAt="1.1.0" before="1.1.3" infoUri="https://github.com/aspnet/Announcements/issues/239" />
+  <package id="Microsoft.AspNetCore.Mvc.ApiExplorer" afterOrAt="1.0.0" before="1.0.4" infoUri="https://github.com/aspnet/Announcements/issues/239" />
+  <package id="Microsoft.AspNetCore.Mvc.ApiExplorer" afterOrAt="1.1.0" before="1.1.3" infoUri="https://github.com/aspnet/Announcements/issues/239" />
+  <package id="Microsoft.AspNetCore.Mvc.Cors" afterOrAt="1.0.0" before="1.0.4" infoUri="https://github.com/aspnet/Announcements/issues/239" />
+  <package id="Microsoft.AspNetCore.Mvc.Cors" afterOrAt="1.1.0" before="1.1.3" infoUri="https://github.com/aspnet/Announcements/issues/239" />
+  <package id="Microsoft.AspNetCore.Mvc.DataAnnotations" afterOrAt="1.0.0" before="1.0.4" infoUri="https://github.com/aspnet/Announcements/issues/239" />
+  <package id="Microsoft.AspNetCore.Mvc.DataAnnotations" afterOrAt="1.1.0" before="1.1.3" infoUri="https://github.com/aspnet/Announcements/issues/239" />
+  <package id="Microsoft.AspNetCore.Mvc.Formatters.Json" afterOrAt="1.0.0" before="1.0.4" infoUri="https://github.com/aspnet/Announcements/issues/239" />
+  <package id="Microsoft.AspNetCore.Mvc.Formatters.Json" afterOrAt="1.1.0" before="1.1.3" infoUri="https://github.com/aspnet/Announcements/issues/239" />
+  <package id="Microsoft.AspNetCore.Mvc.Formatters.Xml" afterOrAt="1.0.0" before="1.0.4" infoUri="https://github.com/aspnet/Announcements/issues/239" />
+  <package id="Microsoft.AspNetCore.Mvc.Formatters.Xml" afterOrAt="1.1.0" before="1.1.3" infoUri="https://github.com/aspnet/Announcements/issues/239" />
+  <package id="Microsoft.AspNetCore.Mvc.Razor.Host" afterOrAt="1.0.0" before="1.0.4" infoUri="https://github.com/aspnet/Announcements/issues/239" />
+  <package id="Microsoft.AspNetCore.Mvc.Razor.Host" afterOrAt="1.1.0" before="1.1.3" infoUri="https://github.com/aspnet/Announcements/issues/239" />
+  <package id="Microsoft.AspNetCore.Mvc.Razor" afterOrAt="1.0.0" before="1.0.4" infoUri="https://github.com/aspnet/Announcements/issues/239" />
+  <package id="Microsoft.AspNetCore.Mvc.Razor" afterOrAt="1.1.0" before="1.1.3" infoUri="https://github.com/aspnet/Announcements/issues/239" />
+  <package id="Microsoft.AspNetCore.Mvc.TagHelpers" afterOrAt="1.0.0" before="1.0.4" infoUri="https://github.com/aspnet/Announcements/issues/239" />
+  <package id="Microsoft.AspNetCore.Mvc.TagHelpers" afterOrAt="1.1.0" before="1.1.3" infoUri="https://github.com/aspnet/Announcements/issues/239" />
+  <package id="Microsoft.AspNetCore.Mvc.ViewFeatures" afterOrAt="1.0.0" before="1.0.4" infoUri="https://github.com/aspnet/Announcements/issues/239" />
+  <package id="Microsoft.AspNetCore.Mvc.ViewFeatures" afterOrAt="1.1.0" before="1.1.3" infoUri="https://github.com/aspnet/Announcements/issues/239" />
+  <package id="Microsoft.AspNetCore.Mvc.WebApiCompatShim" afterOrAt="1.0.0" before="1.0.4" infoUri="https://github.com/aspnet/Announcements/issues/239" />
+  <package id="Microsoft.AspNetCore.Mvc.WebApiCompatShim" afterOrAt="1.1.0" before="1.1.3" infoUri="https://github.com/aspnet/Announcements/issues/239" />
+  
+
 </unsafepackages>
